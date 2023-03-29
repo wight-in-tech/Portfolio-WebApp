@@ -1,16 +1,5 @@
 # portfolio_chetan
+Another project that is originally a Web App but can be hosted and used as a website for you to display your Portfolio. You can use this as a template, make a few changes and upload it to firebase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Portfolio-WebApp
+Another project that is originally a Web App but can be hosted and used as a website for you to display your Portfolio. You can use this as a template, make a few changes and upload it to firebase

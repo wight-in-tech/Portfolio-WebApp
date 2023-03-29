@@ -32,12 +32,18 @@ String email = "chetannb78@gmail.com";
 
 List<Project> projectList = [
   Project(
+      name: "Serw",
+      description:
+      "A Home service app where a Domestic worker can be rented to provide home services. The project is currently under development and will continue to add more feature. It is a group project",
+      link: "https://github.com/wight-in-tech"),
+  Project(
       name: "Expense Tracker",
       description:
-      "This one is my college project just applying different things I learnt from youtube to build an App on my own.well as of now, you can see summary of your weekly expenses , and compare your weekly expenses to other days in the week.Also , I was really frustated for keeping a track on how much money I was borrowing from my friends and lending them , so similarly you will have different pages for borrowing and lending money , you can compare your spent money there as well ",
+          "This one is my college project just applying different things I learnt from youtube to build an App on my own.well as of now, you can see summary of your weekly expenses , and compare your weekly expenses to other days in the week.Also , I was really frustated for keeping a track on how much money I was borrowing from my friends and lending them , so similarly you will have different pages for borrowing and lending money , you can compare your spent money there as well ",
       link: "https://github.com/wight-in-tech/Daily-Expense-Tracker"),
   Project(
       name: "Flutter Portfolio",
       description: "A Web App to be displayed as your portfolio website",
-      link: "https://github.com/wight-in-tech/flutter-portfolio")
+      link: "https://github.com/wight-in-tech/Portfolio-WebApp"),
+
 ];
